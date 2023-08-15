@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+out/
+*.js.map
+
+# Editor/IDE specific
+.vscode/
+.idea/
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Misc
+*.log
+*.swp
+*.bak
